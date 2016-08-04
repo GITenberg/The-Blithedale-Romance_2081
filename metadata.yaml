@@ -1,0 +1,37 @@
+_repo: The-Blithedale-Romance_2081
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: "The Blithedale Romance (1852) is Nathaniel Hawthorne's third major romance.\
+  \ In Hawthorne (1879), Henry James called it \"the lightest, the brightest, the\
+  \ liveliest\" of Hawthorne's \"unhumorous fictions.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2081'
+  wikidata: Q4007947
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'Communal living -- Fiction'
+- !lcsh 'Collective farms -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PS'
+- !lcsh 'Massachusetts -- Fiction'
+- GITenberg
+title: The Blithedale Romance
+url: http://www.gutenberg.org/ebooks/2081
+wikipedia:
+- https://fr.wikipedia.org/wiki/Valjoie_(roman)
+- https://en.wikipedia.org/wiki/The_Blithedale_Romance
+- https://it.wikipedia.org/wiki/Valgioconda
